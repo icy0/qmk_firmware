@@ -71,25 +71,25 @@
   KC_LCTL, KC_LGUI, KC_LALT, MO(2),            KC_SPC,  		 KC_ENT,  KC_BSPC,          KC_LEFT, KC_DOWN, KC_UP,   KC_RIGHT, KC_APP
     ),
 [NUMB] = LAYOUT(
-  XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, DF(0),       ,        , KC_PSLS, KC_PAST,    KC_PMNS,        ,        ,
-         ,        ,        , KC_MS_U,        ,        ,        ,              ,    KC_7,    KC_8,    KC_9,    KC_PPLS,        ,        ,
-         , KC_BTN2, KC_MS_L, KC_MS_D, KC_MS_R,        ,        ,              ,    KC_4,    KC_5,    KC_6,    KC_PCMM,        ,        , 
-         ,        , KC_ACL0, KC_ACL1, KC_ACL2,        ,        ,      ,       ,    KC_1,    KC_2,    KC_3,    KC_PENT,        ,        ,
-		 , 	      ,        ,        ,                   KC_BTN1,      ,       ,   KC_P0, KC_PDOT, KC_PENT,           ,
+  XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, DF(0),   XXXXXXX, XXXXXXX, KC_PSLS, KC_PAST,    KC_PMNS, XXXXXXX, XXXXXXX,
+  XXXXXXX, XXXXXXX, XXXXXXX, KC_MS_U, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,             KC_7,    KC_8,    KC_9,    KC_PPLS, XXXXXXX, XXXXXXX,
+  XXXXXXX, KC_BTN2, KC_MS_L, KC_MS_D, KC_MS_R, XXXXXXX, XXXXXXX, XXXXXXX,             KC_4,    KC_5,    KC_6,    KC_PCMM, XXXXXXX, XXXXXXX, 
+  XXXXXXX, XXXXXXX, KC_ACL0, KC_ACL1, KC_ACL2, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,    KC_1,    KC_2,    KC_3,    KC_PENT, XXXXXXX, XXXXXXX,
+  XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,                   KC_BTN1, XXXXXXX, XXXXXXX,   KC_P0, KC_PDOT, KC_PENT,    XXXXXXX, XXXXXXX
     ),
 [SYMB] = LAYOUT(
-    RESET,          ,     KC_F1,     KC_F2,   KC_F3,   KC_F4,   KC_F5,          , KC_F6,   KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,
-   KC_GRV,   KC_CIRC,          ,          ,        ,        ,        ,                 ,        ,        ,        ,        ,        ,        ,
-         ,UNICODE(Ü),UNICODE(Ö),UNICODE(Ä),        ,        , KC_VOLD,          KC_VOLU,        ,        ,        ,        ,        ,        ,
-         ,          ,          ,          ,        ,        , KC_MPRV, KC_MPLY, KC_MNXT,        ,        ,        ,        ,        ,        ,
-         ,          ,          ,          ,                          ,        ,        ,                 ,        ,        ,        ,        
+    RESET, XXXXXXX,     KC_F1,     KC_F2,   KC_F3,   KC_F4,   KC_F5,          , KC_F6,   KC_F7,   KC_F8,   KC_F9,   KC_F10,  KC_F11,  KC_F12,
+   KC_GRV,   KC_CIRC,   XXXXXXX,   XXXXXXX,   XXXXXXX,   XXXXXXX, XXXXXXX,          XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
+  XXXXXXX,UNICODE(Ü),UNICODE(Ö),UNICODE(Ä),   XXXXXXX,   XXXXXXX, KC_VOLD,          KC_VOLU, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
+  XXXXXXX,   XXXXXXX,   XXXXXXX,   XXXXXXX,   XXXXXXX,   XXXXXXX, KC_MPRV, KC_MPLY, KC_MNXT, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
+  XXXXXXX,   XXXXXXX,   XXXXXXX,   XXXXXXX,              XXXXXXX, XXXXXXX,          XXXXXXX,  XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX
     ),
 [CURS] = LAYOUT(
-         ,        ,        ,        ,        ,        ,        ,        ,        ,        ,        ,        ,        ,        ,        ,
-         ,        , KC_WH_U,        ,        ,        ,        ,                 ,        , K_PRVWD, KC_UP,   K_NXTWD,        ,        ,
-         , KC_LCTL, KC_WH_D, KC_LSFT,        ,        ,        ,                 , K_LSTRT, KC_LEFT, KC_DOWN, KC_RIGHT, K_LEND,        ,
-         , UNDO,    CUT,     COPY,    PASTE,          ,        ,        ,        ,        , KC_BSPC,        , KC_DEL,         ,        ,
-         ,        ,        ,        ,                          ,        ,        ,                 ,        ,       ,         ,        
+  XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
+  XXXXXXX, XXXXXXX, KC_WH_U, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,          XXXXXXX, XXXXXXX, K_PRVWD, KC_UP,   K_NXTWD, XXXXXXX, XXXXXXX,
+  XXXXXXX, KC_LCTL, KC_WH_D, KC_LSFT, XXXXXXX, XXXXXXX, XXXXXXX,          XXXXXXX, K_LSTRT, KC_LEFT, KC_DOWN,KC_RIGHT,  K_LEND, XXXXXXX,
+  XXXXXXX,    UNDO,     CUT,    COPY,   PASTE, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, KC_BSPC, XXXXXXX,  KC_DEL, XXXXXXX, XXXXXXX,
+  XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,                   XXXXXXX, XXXXXXX, XXXXXXX,          XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX
     )
 
 };
