@@ -71,7 +71,7 @@
   KC_LCTL, KC_LGUI, KC_LALT, MO(2),            KC_SPC,  		 KC_ENT,  KC_BSPC,          KC_LEFT, KC_DOWN, KC_UP,   KC_RIGHT, KC_APP
     ),
 [NUMB] = LAYOUT(
-         ,        ,        ,        ,        ,        ,        , DF(0),       ,        , KC_PSLS, KC_PAST,    KC_PMNS,           ,        ,
+  XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, DF(0),       ,        , KC_PSLS, KC_PAST,    KC_PMNS,        ,        ,
          ,        ,        , KC_MS_U,        ,        ,        ,              ,    KC_7,    KC_8,    KC_9,    KC_PPLS,        ,        ,
          , KC_BTN2, KC_MS_L, KC_MS_D, KC_MS_R,        ,        ,              ,    KC_4,    KC_5,    KC_6,    KC_PCMM,        ,        , 
          ,        , KC_ACL0, KC_ACL1, KC_ACL2,        ,        ,      ,       ,    KC_1,    KC_2,    KC_3,    KC_PENT,        ,        ,
