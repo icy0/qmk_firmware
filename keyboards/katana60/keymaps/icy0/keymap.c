@@ -59,7 +59,7 @@
  * but you can change this by defining TAPPING_TOGGLE -- for example, #define TAPPING_TOGGLE 2 to toggle on just two taps.
  
  */
-
+ 
 // _______ == KC_TRNS
  
  const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
