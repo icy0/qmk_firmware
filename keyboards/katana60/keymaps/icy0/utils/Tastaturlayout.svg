@@ -1,0 +1,1703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="80mm"
+   viewBox="0 0 210 80"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Tastaturlayout.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5087"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5085" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.75889343"
+     inkscape:cx="351.64677"
+     inkscape:cy="329.26358"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5606" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.95623451;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5069"
+       width="176.79063"
+       height="60.184978"
+       x="14.512412"
+       y="226.44632" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0"
+       width="9.4494047"
+       height="9.4494047"
+       x="16.757929"
+       y="228.82329" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6"
+       width="9.4494047"
+       height="9.4494047"
+       x="28.475187"
+       y="228.82329" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7"
+       width="9.4494047"
+       height="9.4494047"
+       x="40.215778"
+       y="228.77113" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-1"
+       width="9.4494047"
+       height="9.4494047"
+       x="51.933041"
+       y="228.77113" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-6"
+       width="9.4494047"
+       height="9.4494047"
+       x="63.365528"
+       y="228.66357" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-0"
+       width="9.4494047"
+       height="9.4494047"
+       x="75.082779"
+       y="228.66357" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-0"
+       width="9.4494047"
+       height="9.4494047"
+       x="86.823372"
+       y="228.6114" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-1-6"
+       width="9.4494047"
+       height="9.4494047"
+       x="98.540634"
+       y="228.6114" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-63"
+       width="9.4494047"
+       height="9.4494047"
+       x="109.9527"
+       y="228.47617" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-5"
+       width="9.4494047"
+       height="9.4494047"
+       x="121.66998"
+       y="228.47617" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-4"
+       width="9.4494047"
+       height="9.4494047"
+       x="133.41057"
+       y="228.424" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-1-9"
+       width="9.4494047"
+       height="9.4494047"
+       x="145.12782"
+       y="228.424" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-6-4"
+       width="9.4494047"
+       height="9.4494047"
+       x="156.5603"
+       y="228.31645" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-0-6"
+       width="9.4494047"
+       height="9.4494047"
+       x="168.27756"
+       y="228.31645" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-0-3"
+       width="9.4494047"
+       height="9.4494047"
+       x="180.01816"
+       y="228.26428" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-8"
+       width="9.4494047"
+       height="9.4494047"
+       x="33.602283"
+       y="240.60498" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-6"
+       width="9.4494047"
+       height="9.4494047"
+       x="45.319546"
+       y="240.60498" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-8"
+       width="9.4494047"
+       height="9.4494047"
+       x="57.060139"
+       y="240.55283" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-1-5"
+       width="9.4494047"
+       height="9.4494047"
+       x="68.77739"
+       y="240.55283" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-6-5"
+       width="9.4494047"
+       height="9.4494047"
+       x="80.209877"
+       y="240.44527" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-0-0"
+       width="9.4494047"
+       height="9.4494047"
+       x="91.927132"
+       y="240.44527" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-0-7"
+       width="9.4494047"
+       height="9.4494047"
+       x="103.66772"
+       y="240.39311" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-1-6-7"
+       width="9.4494047"
+       height="9.4494047"
+       x="115.38498"
+       y="240.39311" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-63-5"
+       width="9.4494047"
+       height="9.4494047"
+       x="126.79706"
+       y="240.25786" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-5-7"
+       width="9.4494047"
+       height="9.4494047"
+       x="138.51434"
+       y="240.25786" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-4-2"
+       width="9.4494047"
+       height="9.4494047"
+       x="150.25494"
+       y="240.20569" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-6-4-2"
+       width="9.4494047"
+       height="9.4494047"
+       x="161.71181"
+       y="240.16257" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.01545072;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5081-4"
+       width="15.146597"
+       height="9.4769535"
+       x="16.555166"
+       y="240.43228" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.0118984;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5081-4-4"
+       width="15.513561"
+       height="9.1881599"
+       x="173.79878"
+       y="240.14861" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.01586914;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5077-0"
+       width="12.594839"
+       height="9.5710306"
+       x="16.697117"
+       y="252.29149" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-4"
+       width="9.4494047"
+       height="9.4494047"
+       x="16.581684"
+       y="264.06558" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-00"
+       width="9.4494047"
+       height="9.4494047"
+       x="28.298944"
+       y="264.06558" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-6"
+       width="9.4494047"
+       height="9.4494047"
+       x="40.039536"
+       y="264.01343" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-1-8"
+       width="9.4494047"
+       height="9.4494047"
+       x="51.756794"
+       y="264.01343" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-6-7"
+       width="9.4494047"
+       height="9.4494047"
+       x="63.189285"
+       y="263.90588" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-0-5"
+       width="9.4494047"
+       height="9.4494047"
+       x="74.906532"
+       y="263.90588" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-0-38"
+       width="9.4494047"
+       height="9.4494047"
+       x="86.647125"
+       y="263.85373" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-1-6-6"
+       width="9.4494047"
+       height="9.4494047"
+       x="98.364388"
+       y="263.85373" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-63-2"
+       width="9.4494047"
+       height="9.4494047"
+       x="109.77646"
+       y="263.71848" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-5-5"
+       width="9.4494047"
+       height="9.4494047"
+       x="121.49373"
+       y="263.71848" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-4-24"
+       width="9.4494047"
+       height="9.4494047"
+       x="133.23433"
+       y="263.66632" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-1-9-9"
+       width="9.4494047"
+       height="9.4494047"
+       x="144.95158"
+       y="263.66632" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-6-4-8"
+       width="9.4494047"
+       height="9.4494047"
+       x="156.38406"
+       y="263.55875" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-0-6-0"
+       width="9.4494047"
+       height="9.4494047"
+       x="168.10132"
+       y="263.55875" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-0-3-6"
+       width="9.4494047"
+       height="9.4494047"
+       x="179.84192"
+       y="263.50659" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-1"
+       width="9.4494047"
+       height="9.4494047"
+       x="16.379953"
+       y="275.31436" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.9973433;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5077-8"
+       width="12.613365"
+       height="9.2115803"
+       x="28.027136"
+       y="275.52777" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.9879415;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5077-9-1"
+       width="12.622766"
+       height="9.0319939"
+       x="42.763508"
+       y="275.52307"
+       inkscape:transform-center-x="13.856573"
+       inkscape:transform-center-y="-31.569768" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.98794156;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5077-9-1-3"
+       width="12.622766"
+       height="9.0319939"
+       x="57.315594"
+       y="275.52307"
+       inkscape:transform-center-x="13.856573"
+       inkscape:transform-center-y="-31.569768" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.01175666;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5083-0"
+       width="24.127228"
+       height="8.9136848"
+       x="71.879585"
+       y="275.48773" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.02402222;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-4"
+       width="9.4683828"
+       height="9.0904064"
+       x="98.391296"
+       y="275.11588" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.01930499;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5079-7"
+       width="20.664539"
+       height="9.2739477"
+       x="110.08138"
+       y="275.19171" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-4-5"
+       width="9.4494047"
+       height="9.4494047"
+       x="132.92735"
+       y="275.01627" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-00-4"
+       width="9.4494047"
+       height="9.4494047"
+       x="144.64461"
+       y="275.01627" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-6-2"
+       width="9.4494047"
+       height="9.4494047"
+       x="156.38519"
+       y="274.96408" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-1-8-6"
+       width="9.4494047"
+       height="9.4494047"
+       x="168.10246"
+       y="274.96408" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-6-7-5"
+       width="9.4494047"
+       height="9.4494047"
+       x="179.53494"
+       y="274.85654" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-4-2"
+       width="9.4494047"
+       height="9.4494047"
+       x="31.251751"
+       y="252.14868" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-00-2"
+       width="9.4494047"
+       height="9.4494047"
+       x="42.969017"
+       y="252.14868" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-6-4"
+       width="9.4494047"
+       height="9.4494047"
+       x="54.709606"
+       y="252.09651" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-1-8-8"
+       width="9.4494047"
+       height="9.4494047"
+       x="66.426865"
+       y="252.09651" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-6-7-0"
+       width="9.4494047"
+       height="9.4494047"
+       x="77.859344"
+       y="251.98897" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-0-5-6"
+       width="9.4494047"
+       height="9.4494047"
+       x="89.576599"
+       y="251.98897" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-4-3"
+       width="9.4494047"
+       height="9.4494047"
+       x="106.46901"
+       y="251.95969" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-00-5"
+       width="9.4494047"
+       height="9.4494047"
+       x="118.18628"
+       y="251.95969" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-7-6-8"
+       width="9.4494047"
+       height="9.4494047"
+       x="129.92688"
+       y="251.90753" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-1-8-9"
+       width="9.4494047"
+       height="9.4494047"
+       x="141.64413"
+       y="251.90753" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-0-6-7-03"
+       width="9.4494047"
+       height="9.4494047"
+       x="153.07661"
+       y="251.79997" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.04299998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5071-6-0-5-8"
+       width="9.4494047"
+       height="9.4494047"
+       x="164.79387"
+       y="251.79997" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.02970481;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5077-0-8"
+       width="12.95898"
+       height="9.5571947"
+       x="176.20998"
+       y="251.63695" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="17.840799"
+       y="235.20068"
+       id="text5604"><tspan
+         sodipodi:role="line"
+         id="tspan5602"
+         x="17.840799"
+         y="235.20068"
+         style="font-size:4.93888903px;stroke-width:0.26458332">Esc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="29.678677"
+       y="236.88814"
+       id="text5610"><tspan
+         sodipodi:role="line"
+         id="tspan5608"
+         x="29.678677"
+         y="236.88814"
+         style="font-size:4.93888903px;stroke-width:0.26458332">\</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="29.361"
+       y="24.1695"
+       id="text5614"><tspan
+         sodipodi:role="line"
+         id="tspan5612"
+         x="29.361"
+         y="30.500917"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.31427"
+       y="237.00339"
+       id="text5618"><tspan
+         sodipodi:role="line"
+         id="tspan5616"
+         x="41.31427"
+         y="237.00339"
+         style="font-size:4.93888903px;stroke-width:0.26458332">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="53.418701"
+       y="236.95244"
+       id="text5618-5"><tspan
+         sodipodi:role="line"
+         id="tspan5616-4"
+         x="53.418701"
+         y="236.95244"
+         style="font-size:4.93888903px;stroke-width:0.26458332">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="65.068352"
+       y="236.82918"
+       id="text5618-1"><tspan
+         sodipodi:role="line"
+         id="tspan5616-8"
+         x="65.068352"
+         y="236.82918"
+         style="font-size:4.93888903px;stroke-width:0.26458332">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="76.429169"
+       y="236.71649"
+       id="text5618-6"><tspan
+         sodipodi:role="line"
+         id="tspan5616-43"
+         x="76.429169"
+         y="236.71649"
+         style="font-size:4.93888903px;stroke-width:0.26458332">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="88.170364"
+       y="236.77812"
+       id="text5618-8"><tspan
+         sodipodi:role="line"
+         id="tspan5616-86"
+         x="88.170364"
+         y="236.77812"
+         style="font-size:4.93888903px;stroke-width:0.26458332">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="111.24249"
+       y="236.7887"
+       id="text5618-9"
+       inkscape:transform-center-x="0.55468856"><tspan
+         sodipodi:role="line"
+         id="tspan5616-869"
+         x="111.24249"
+         y="236.7887"
+         style="font-size:4.93888903px;stroke-width:0.26458332">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="122.90088"
+       y="236.60379"
+       id="text5618-7"><tspan
+         sodipodi:role="line"
+         id="tspan5616-88"
+         x="122.90088"
+         y="236.60379"
+         style="font-size:4.93888903px;stroke-width:0.26458332">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="135.01189"
+       y="236.54216"
+       id="text5618-52"><tspan
+         sodipodi:role="line"
+         id="tspan5616-44"
+         x="135.01189"
+         y="236.54216"
+         style="font-size:4.93888903px;stroke-width:0.26458332">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="146.56816"
+       y="236.60379"
+       id="text5618-53"><tspan
+         sodipodi:role="line"
+         id="tspan5616-1"
+         x="146.56816"
+         y="236.60379"
+         style="font-size:4.93888903px;stroke-width:0.26458332">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="158.02235"
+       y="236.54216"
+       id="text5618-19"><tspan
+         sodipodi:role="line"
+         id="tspan5616-80"
+         x="158.02235"
+         y="236.54216"
+         style="font-size:4.93888903px;stroke-width:0.26458332">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.04327"
+       y="22.48365"
+       id="text5704"><tspan
+         sodipodi:role="line"
+         id="tspan5702"
+         x="41.04327"
+         y="26.915642"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="52.387253"
+       y="22.490791"
+       id="text5708"><tspan
+         sodipodi:role="line"
+         id="tspan5706"
+         x="52.387253"
+         y="26.922783"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="63.60429"
+       y="22.67569"
+       id="text5712"><tspan
+         sodipodi:role="line"
+         id="tspan5710"
+         x="63.60429"
+         y="27.107681"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="75.930702"
+       y="22.552423"
+       id="text5716"><tspan
+         sodipodi:role="line"
+         id="tspan5714"
+         x="75.930702"
+         y="26.984415"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="86.962837"
+       y="21.566311"
+       id="text5720"><tspan
+         sodipodi:role="line"
+         id="tspan5718"
+         x="86.962837"
+         y="25.998302"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="34.628147"
+       y="233.00989"
+       id="text5724"><tspan
+         sodipodi:role="line"
+         id="tspan5722"
+         x="34.628147"
+         y="233.00989"
+         style="stroke-width:0.26458332">|</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="46.708035"
+       y="233.19478"
+       id="text5728"><tspan
+         sodipodi:role="line"
+         id="tspan5726"
+         x="46.708035"
+         y="233.19478"
+         style="stroke-width:0.26458332">!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="56.38427"
+       y="232.76337"
+       id="text5732"><tspan
+         sodipodi:role="line"
+         id="tspan5730"
+         x="56.38427"
+         y="232.76337"
+         style="stroke-width:0.26458332">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.279259"
+       y="232.825"
+       id="text5736"><tspan
+         sodipodi:role="line"
+         id="tspan5734"
+         x="68.279259"
+         y="232.825"
+         style="stroke-width:0.26458332">#</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="80.605659"
+       y="233.00989"
+       id="text5740"><tspan
+         sodipodi:role="line"
+         id="tspan5738"
+         x="80.605659"
+         y="233.00989"
+         style="stroke-width:0.26458332">$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="91.576164"
+       y="232.94826"
+       id="text5744"><tspan
+         sodipodi:role="line"
+         id="tspan5742"
+         x="91.576164"
+         y="232.94826"
+         style="stroke-width:0.26458332">%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:0.60000002;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.711609"
+       y="232.94826"
+       id="text5748"><tspan
+         sodipodi:role="line"
+         id="tspan5746"
+         x="99.711609"
+         y="232.94826"
+         style="font-size:2.82222223px;line-height:0.60000002;stroke-width:0.26458332">Num</tspan><tspan
+         sodipodi:role="line"
+         x="99.711609"
+         y="235.91159"
+         style="font-size:2.82222223px;line-height:0.60000002;stroke-width:0.26458332"
+         id="tspan5756">Layer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="101.81617"
+       y="21.011623"
+       id="text5752"><tspan
+         sodipodi:role="line"
+         id="tspan5750"
+         x="101.81617"
+         y="25.443615"
+         style="stroke-width:0.26458332"></tspan><tspan
+         sodipodi:role="line"
+         x="101.81617"
+         y="31.617226"
+         style="stroke-width:0.26458332"
+         id="tspan5754" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="115.42778"
+       y="233.07152"
+       id="text5760"><tspan
+         sodipodi:role="line"
+         id="tspan5758"
+         x="115.42778"
+         y="233.07152"
+         style="stroke-width:0.26458332">^</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="126.3983"
+       y="232.94826"
+       id="text5764"><tspan
+         sodipodi:role="line"
+         id="tspan5762"
+         x="126.3983"
+         y="232.94826"
+         style="stroke-width:0.26458332">&amp;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="138.97124"
+       y="233.31805"
+       id="text5768"><tspan
+         sodipodi:role="line"
+         id="tspan5766"
+         x="138.97124"
+         y="233.31805"
+         style="stroke-width:0.26458332">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="150.92786"
+       y="232.94826"
+       id="text5772"><tspan
+         sodipodi:role="line"
+         id="tspan5770"
+         x="150.92786"
+         y="232.94826"
+         style="stroke-width:0.26458332">(</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="163.25426"
+       y="232.70172"
+       id="text5776"><tspan
+         sodipodi:role="line"
+         id="tspan5774"
+         x="163.25426"
+         y="232.70172"
+         style="stroke-width:0.26458332">)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="169.40251"
+       y="236.42273"
+       id="text5780"><tspan
+         sodipodi:role="line"
+         id="tspan5778"
+         x="169.40251"
+         y="236.42273"
+         style="stroke-width:0.26458332">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="180.88104"
+       y="236.27638"
+       id="text5784"><tspan
+         sodipodi:role="line"
+         id="tspan5782"
+         x="180.88104"
+         y="236.27638"
+         style="stroke-width:0.26458332">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="174.02312"
+       y="229.97112"
+       id="text5788"><tspan
+         sodipodi:role="line"
+         id="tspan5786"
+         x="174.02312"
+         y="229.97112"
+         style="stroke-width:0.26458332">_</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="184.94875"
+       y="232.4552"
+       id="text5792"><tspan
+         sodipodi:role="line"
+         id="tspan5790"
+         x="184.94875"
+         y="232.4552"
+         style="stroke-width:0.26458332">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="19.77482"
+       y="246.75385"
+       id="text5796"><tspan
+         sodipodi:role="line"
+         id="tspan5794"
+         x="19.77482"
+         y="246.75385"
+         style="stroke-width:0.26458332">Tab</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.08559752px;line-height:0.60000002;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32601416"
+       x="17.648956"
+       y="258.07669"
+       id="text5800"
+       transform="scale(1.0078366,0.99222433)"><tspan
+         sodipodi:role="line"
+         id="tspan5798"
+         x="17.648956"
+         y="258.07669"
+         style="font-size:3.4774847px;line-height:0.60000002;stroke-width:0.32601416">Cursor</tspan><tspan
+         sodipodi:role="line"
+         x="17.648956"
+         y="261.72803"
+         style="font-size:3.4774847px;line-height:0.60000002;stroke-width:0.32601416"
+         id="tspan5802">Layer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81049395px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31127647"
+       x="17.360405"
+       y="266.96274"
+       id="text5806"
+       transform="scale(0.98816329,1.0119785)"><tspan
+         sodipodi:role="line"
+         id="tspan5804"
+         x="17.360405"
+         y="266.96274"
+         style="font-size:4.15035295px;stroke-width:0.31127647">Shift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="17.063011"
+       y="281.6376"
+       id="text5810"><tspan
+         sodipodi:role="line"
+         id="tspan5808"
+         x="17.063011"
+         y="281.6376"
+         style="stroke-width:0.26458332">Ctrl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.88034534px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3150185"
+       x="29.011356"
+       y="282.18594"
+       id="text5814"><tspan
+         sodipodi:role="line"
+         id="tspan5812"
+         x="29.011356"
+         y="282.18594"
+         style="stroke-width:0.3150185">Win</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3198781px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3385649"
+       x="44.545517"
+       y="282.0051"
+       id="text5818"><tspan
+         sodipodi:role="line"
+         id="tspan5816"
+         x="44.545517"
+         y="282.0051"
+         style="stroke-width:0.3385649">Alt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.9175415px;line-height:0.60000002;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31701115"
+       x="57.80592"
+       y="279.38361"
+       id="text5822"><tspan
+         sodipodi:role="line"
+         id="tspan5820"
+         x="57.80592"
+         y="279.38361"
+         style="font-size:4.2268157px;line-height:0.60000002;stroke-width:0.31701115">Media</tspan><tspan
+         sodipodi:role="line"
+         x="57.80592"
+         y="282.93411"
+         style="font-size:4.2268157px;line-height:0.60000002;stroke-width:0.31701115"
+         id="tspan5824">Layer</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5826"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion5828"><rect
+           id="rect5830"
+           width="50.315056"
+           height="32.145729"
+           x="193.80615"
+           y="269.02722" /></flowRegion><flowPara
+         id="flowPara5832"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="77.585693"
+       y="281.26779"
+       id="text5836"><tspan
+         sodipodi:role="line"
+         id="tspan5834"
+         x="77.585693"
+         y="281.26779"
+         style="stroke-width:0.26458332">Space</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.99028"
+       y="281.02127"
+       id="text5840"><tspan
+         sodipodi:role="line"
+         id="tspan5838"
+         x="110.99028"
+         y="281.02127"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Backspace</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="98.910385"
+       y="281.02127"
+       id="text5844"><tspan
+         sodipodi:role="line"
+         id="tspan5842"
+         x="98.910385"
+         y="281.02127"
+         style="font-size:3.52777767px;stroke-width:0.26458332">Enter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25347757px;line-height:0.60000002;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22786486"
+       x="133.42625"
+       y="279.43985"
+       id="text5848"><tspan
+         sodipodi:role="line"
+         id="tspan5846"
+         x="133.42625"
+         y="279.43985"
+         style="font-size:3.03819823px;line-height:0.60000002;stroke-width:0.22786486">Left </tspan><tspan
+         sodipodi:role="line"
+         x="133.42625"
+         y="281.99194"
+         style="font-size:3.03819823px;line-height:0.60000002;stroke-width:0.22786486"
+         id="tspan5850">Arrow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25347757px;line-height:0.60000002;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22786486"
+       x="145.10637"
+       y="279.3223"
+       id="text5848-2"><tspan
+         sodipodi:role="line"
+         id="tspan5846-9"
+         x="145.10637"
+         y="279.3223"
+         style="font-size:3.03819823px;line-height:0.60000002;stroke-width:0.22786486">Down </tspan><tspan
+         sodipodi:role="line"
+         x="145.10637"
+         y="281.87439"
+         style="font-size:3.03819823px;line-height:0.60000002;stroke-width:0.22786486"
+         id="tspan5850-2">Arrow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25347757px;line-height:0.60000002;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22786486"
+       x="156.81645"
+       y="279.56885"
+       id="text5848-22"><tspan
+         sodipodi:role="line"
+         id="tspan5846-3"
+         x="156.81645"
+         y="279.56885"
+         style="font-size:3.03819823px;line-height:0.60000002;stroke-width:0.22786486">Up</tspan><tspan
+         sodipodi:role="line"
+         x="156.81645"
+         y="282.12094"
+         style="font-size:3.03819823px;line-height:0.60000002;stroke-width:0.22786486"
+         id="tspan5850-3">Arrow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25347757px;line-height:0.60000002;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22786486"
+       x="168.64981"
+       y="279.32233"
+       id="text5848-6"><tspan
+         sodipodi:role="line"
+         id="tspan5846-8"
+         x="168.64981"
+         y="279.32233"
+         style="font-size:3.03819823px;line-height:0.60000002;stroke-width:0.22786486">Right</tspan><tspan
+         sodipodi:role="line"
+         x="168.64981"
+         y="281.87442"
+         style="font-size:3.03819823px;line-height:0.60000002;stroke-width:0.22786486"
+         id="tspan5850-9">Arrow</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="180.63451"
+       y="280.77475"
+       id="text5895"><tspan
+         sodipodi:role="line"
+         id="tspan5893"
+         x="180.63451"
+         y="280.77475"
+         style="font-size:4.23333311px;stroke-width:0.26458332">App</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="36.908539"
+       y="246.38405"
+       id="text5899"><tspan
+         sodipodi:role="line"
+         id="tspan5897"
+         x="36.908539"
+         y="246.38405"
+         style="stroke-width:0.26458332">q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="48.248837"
+       y="246.50731"
+       id="text5903"><tspan
+         sodipodi:role="line"
+         id="tspan5901"
+         x="48.248837"
+         y="246.50731"
+         style="stroke-width:0.26458332">w</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="60.575253"
+       y="246.38405"
+       id="text5907"><tspan
+         sodipodi:role="line"
+         id="tspan5905"
+         x="60.575253"
+         y="246.38405"
+         style="stroke-width:0.26458332">e</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="72.655128"
+       y="246.38405"
+       id="text5911"><tspan
+         sodipodi:role="line"
+         id="tspan5909"
+         x="72.655128"
+         y="246.38405"
+         style="stroke-width:0.26458332">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="83.872169"
+       y="246.38405"
+       id="text5915"><tspan
+         sodipodi:role="line"
+         id="tspan5913"
+         x="83.872169"
+         y="246.38405"
+         style="stroke-width:0.26458332">t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="34.443249"
+       y="257.84763"
+       id="text5919"><tspan
+         sodipodi:role="line"
+         id="tspan5917"
+         x="34.443249"
+         y="257.84763"
+         style="stroke-width:0.26458332">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="46.6464"
+       y="257.84763"
+       id="text5923"><tspan
+         sodipodi:role="line"
+         id="tspan5921"
+         x="46.6464"
+         y="257.84763"
+         style="stroke-width:0.26458332">s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="57.863438"
+       y="257.97089"
+       id="text5927"><tspan
+         sodipodi:role="line"
+         id="tspan5925"
+         x="57.863438"
+         y="257.97089"
+         style="stroke-width:0.26458332">d</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.066582"
+       y="257.97089"
+       id="text5931"><tspan
+         sodipodi:role="line"
+         id="tspan5929"
+         x="70.066582"
+         y="257.97089"
+         style="stroke-width:0.26458332">f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="81.283615"
+       y="257.35455"
+       id="text5935"><tspan
+         sodipodi:role="line"
+         id="tspan5933"
+         x="81.283615"
+         y="257.35455"
+         style="stroke-width:0.26458332">g</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="31.854702"
+       y="269.68097"
+       id="text5939"><tspan
+         sodipodi:role="line"
+         id="tspan5937"
+         x="31.854702"
+         y="269.68097"
+         style="stroke-width:0.26458332">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="43.688065"
+       y="269.68097"
+       id="text5943"><tspan
+         sodipodi:role="line"
+         id="tspan5941"
+         x="43.688065"
+         y="269.68097"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="55.52142"
+       y="269.68097"
+       id="text5947"><tspan
+         sodipodi:role="line"
+         id="tspan5945"
+         x="55.52142"
+         y="269.68097"
+         style="stroke-width:0.26458332">c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="66.491928"
+       y="269.55771"
+       id="text5951"><tspan
+         sodipodi:role="line"
+         id="tspan5949"
+         x="66.491928"
+         y="269.55771"
+         style="stroke-width:0.26458332">v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="78.5718"
+       y="269.80423"
+       id="text5955"><tspan
+         sodipodi:role="line"
+         id="tspan5953"
+         x="78.5718"
+         y="269.80423"
+         style="stroke-width:0.26458332">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="119.24897"
+       y="246.01425"
+       id="text5959"><tspan
+         sodipodi:role="line"
+         id="tspan5957"
+         x="119.24897"
+         y="246.01425"
+         style="stroke-width:0.26458332">z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="130.34274"
+       y="246.01425"
+       id="text5963"><tspan
+         sodipodi:role="line"
+         id="tspan5961"
+         x="130.34274"
+         y="246.01425"
+         style="stroke-width:0.26458332">u</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="141.68306"
+       y="245.76773"
+       id="text5967"><tspan
+         sodipodi:role="line"
+         id="tspan5965"
+         x="141.68306"
+         y="245.76773"
+         style="stroke-width:0.26458332">i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="153.63968"
+       y="246.01425"
+       id="text5971"><tspan
+         sodipodi:role="line"
+         id="tspan5969"
+         x="153.63968"
+         y="246.01425"
+         style="stroke-width:0.26458332">o</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="165.2265"
+       y="245.64447"
+       id="text5975"><tspan
+         sodipodi:role="line"
+         id="tspan5973"
+         x="165.2265"
+         y="245.64447"
+         style="stroke-width:0.26458332">p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="121.71423"
+       y="258.09415"
+       id="text5979"><tspan
+         sodipodi:role="line"
+         id="tspan5977"
+         x="121.71423"
+         y="258.09415"
+         style="stroke-width:0.26458332">h</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="133.94823"
+       y="257.90924"
+       id="text5983"><tspan
+         sodipodi:role="line"
+         id="tspan5981"
+         x="133.94823"
+         y="257.90924"
+         style="stroke-width:0.26458332">j</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="145.01117"
+       y="258.09415"
+       id="text5987"><tspan
+         sodipodi:role="line"
+         id="tspan5985"
+         x="145.01117"
+         y="258.09415"
+         style="stroke-width:0.26458332">k</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="156.96779"
+       y="257.84763"
+       id="text5991"><tspan
+         sodipodi:role="line"
+         id="tspan5989"
+         x="156.96779"
+         y="257.84763"
+         style="stroke-width:0.26458332">l</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="166.45915"
+       y="260.68268"
+       id="text5995"><tspan
+         sodipodi:role="line"
+         id="tspan5993"
+         x="166.45915"
+         y="260.68268"
+         style="stroke-width:0.26458332">'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="171.01991"
+       y="256.4917"
+       id="text5999"><tspan
+         sodipodi:role="line"
+         id="tspan5997"
+         x="171.01991"
+         y="256.4917"
+         style="stroke-width:0.26458332">&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="124.91911"
+       y="269.55771"
+       id="text6003"><tspan
+         sodipodi:role="line"
+         id="tspan6001"
+         x="124.91911"
+         y="269.55771"
+         style="stroke-width:0.26458332">n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="136.01289"
+       y="269.31119"
+       id="text6007"><tspan
+         sodipodi:role="line"
+         id="tspan6005"
+         x="136.01289"
+         y="269.31119"
+         style="stroke-width:0.26458332">m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="146.9834"
+       y="270.17404"
+       id="text6011"><tspan
+         sodipodi:role="line"
+         id="tspan6009"
+         x="146.9834"
+         y="270.17404"
+         style="stroke-width:0.26458332">,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="157.8362"
+       y="270.9386"
+       id="text6015"><tspan
+         sodipodi:role="line"
+         id="tspan6013"
+         x="157.8362"
+         y="270.9386"
+         style="stroke-width:0.26458332">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="169.4791"
+       y="270.72873"
+       id="text6019"><tspan
+         sodipodi:role="line"
+         id="tspan6017"
+         x="169.4791"
+         y="270.72873"
+         style="stroke-width:0.26458332">;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="149.81848"
+       y="267.70874"
+       id="text6023"><tspan
+         sodipodi:role="line"
+         id="tspan6021"
+         x="149.81848"
+         y="267.70874"
+         style="stroke-width:0.26458332">&lt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="161.76889"
+       y="267.54382"
+       id="text6027"><tspan
+         sodipodi:role="line"
+         id="tspan6025"
+         x="161.76889"
+         y="267.54382"
+         style="stroke-width:0.26458332">&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="174.77948"
+       y="267.46222"
+       id="text6031"><tspan
+         sodipodi:role="line"
+         id="tspan6029"
+         x="174.77948"
+         y="267.46222"
+         style="stroke-width:0.26458332">:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="175.45743"
+       y="247.86322"
+       id="text6035"><tspan
+         sodipodi:role="line"
+         id="tspan6033"
+         x="175.45743"
+         y="247.86322"
+         style="stroke-width:0.26458332">/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="185.68834"
+       y="244.41182"
+       id="text6039"><tspan
+         sodipodi:role="line"
+         id="tspan6037"
+         x="185.68834"
+         y="244.41182"
+         style="stroke-width:0.26458332">?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.5040102px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34842914"
+       x="177.79332"
+       y="258.71609"
+       id="text6043"><tspan
+         sodipodi:role="line"
+         id="tspan6041"
+         x="177.79332"
+         y="258.71609"
+         style="stroke-width:0.34842914">Alt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.99968481px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21426882"
+       x="180.43933"
+       y="269.62729"
+       id="text6047"><tspan
+         sodipodi:role="line"
+         id="tspan6045"
+         x="180.43933"
+         y="269.62729"
+         style="stroke-width:0.21426882">Shift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="92.810631"
+       y="248.14584"
+       id="text6051"><tspan
+         sodipodi:role="line"
+         id="tspan6049"
+         x="92.810631"
+         y="248.14584"
+         style="stroke-width:0.26458332">[</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="98.22998"
+       y="244.62973"
+       id="text6055"><tspan
+         sodipodi:role="line"
+         id="tspan6053"
+         x="98.22998"
+         y="244.62973"
+         style="stroke-width:0.26458332">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="104.88239"
+       y="248.14648"
+       id="text6059"><tspan
+         sodipodi:role="line"
+         id="tspan6057"
+         x="104.88239"
+         y="248.14648"
+         style="stroke-width:0.26458332">]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.09943"
+       y="244.62845"
+       id="text6063"><tspan
+         sodipodi:role="line"
+         id="tspan6061"
+         x="110.09943"
+         y="244.62845"
+         style="stroke-width:0.26458332">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.08332181px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16517796"
+       x="90.164246"
+       y="257.54782"
+       id="text6067"><tspan
+         sodipodi:role="line"
+         id="tspan6065"
+         x="90.164246"
+         y="257.54782"
+         style="stroke-width:0.16517796">Home</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="86.899414"
+       y="270.59024"
+       id="text6071"><tspan
+         sodipodi:role="line"
+         id="tspan6069"
+         x="86.899414"
+         y="270.59024"
+         style="stroke-width:0.26458332">End</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90770125px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15576971"
+       x="98.888069"
+       y="269.84052"
+       id="text6075"><tspan
+         sodipodi:role="line"
+         id="tspan6073"
+         x="98.888069"
+         y="269.84052"
+         style="stroke-width:0.15576971">Delete</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.33354282px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17858265"
+       x="110.03154"
+       y="267.39471"
+       id="text6079"><tspan
+         sodipodi:role="line"
+         id="tspan6077"
+         x="110.03154"
+         y="267.39471"
+         style="stroke-width:0.17858265">Page</tspan><tspan
+         sodipodi:role="line"
+         x="110.03154"
+         y="271.56165"
+         style="stroke-width:0.17858265"
+         id="tspan6087">Down</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6025269px;line-height:1.25;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19299252"
+       x="106.96468"
+       y="255.20277"
+       id="text6083"><tspan
+         sodipodi:role="line"
+         id="tspan6081"
+         x="106.96468"
+         y="255.20277"
+         style="stroke-width:0.19299252">Page </tspan><tspan
+         sodipodi:role="line"
+         x="106.96468"
+         y="259.70593"
+         style="stroke-width:0.19299252"
+         id="tspan6085">Up</tspan></text>
+  </g>
+</svg>
